@@ -6,6 +6,6 @@ The data used in this repository is freely available [here](https://springernatu
 
 # Example
 
-I used the dataset `data_s19_64.mat` and used the block 2; frequency = 12 Hz; condition = low depth. The plot shows the comparison when using reference signals of 8 Hz, 12 Hz, and 16 Hz. As can be seen, despite the attempts to find linear combinations of a multi-channel EEG data for each of the reference signals, the target frequency achieves the highest 'canonical' correlation.
+I used the dataset `data_s19_64.mat` and set the block ID to 2; frequency = 12 Hz; condition = low depth. The plot shows the comparison when using reference signals of 8 Hz, 12 Hz, and 16 Hz. As can be seen, despite the attempts to find linear combinations of a multi-channel EEG data for each of the reference signals, the target frequency (12 Hz) achieves the highest canonical correlation.
 
 ![Fig03_3frequencies](https://github.com/user-attachments/assets/27583d2a-db4c-4e46-98e3-709ec9c4e387)
