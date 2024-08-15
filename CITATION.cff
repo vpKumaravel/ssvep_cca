@@ -4,7 +4,7 @@ title: "Your Project Title"
 authors:
   - family-names: Kumaravel
     given-names: Velu Prabhakar
-    orcid: "https://orcid.org/0000-0002-9286-4687"  # Optional
+    orcid: "https://orcid.org/0000-0002-9286-4687" 
     affiliation: University of Oldenburg
 
 date-released: "2024-08-13"
@@ -19,3 +19,11 @@ keywords:
   - neural data analysis
 abstract: >
 This Python code explaining why Canonical Correlation Analysis (CCA) works in detecting Steady State Visually Evoked Potentials (SSVEP).
+
+@software{Kumaravel_ssvep_cca_2024,
+  author = {Kumaravel, Velu prabhakar},
+  month = {08},
+  title = {{Understanding how EEG-SSVEP data is analysed using CCA through informative plots}},
+  url = {https://github.com/vpKumaravel/ssvep_cca/},
+  year = {2024}
+}
