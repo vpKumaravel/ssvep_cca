@@ -5,14 +5,6 @@ authors:
   given-names: "Velu Prabhakar"
 title: "Understanding how EEG-SSVEP data is analysed using CCA through informative plots"
 version: 1.0.0
-date-released: 2024-08-15
+doi: https://doi.org/10.3390/s22249803
+date-released: 2024-08-13
 url: "https://github.com/vpKumaravel/ssvep_cca"
-license: "MIT"
-keywords:
-  - EEG
-  - BCI
-  - SSVEP
-  - CCA
-  - neural data analysis
-abstract: >
-This Python code explaining why Canonical Correlation Analysis (CCA) works in detecting Steady State Visually Evoked Potentials (SSVEP).
